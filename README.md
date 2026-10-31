@@ -63,4 +63,4 @@ A pet adoption website built by a 10-person team that I led: I split the work, m
 
 ## 📫 Contact
 
-[Portfolio](https://taisiia.co) · [LinkedIn](https://linkedin.com/in/USERNAME)
+[Portfolio](https://taisiia.co) · [LinkedIn](https://www.linkedin.com/in/taisiia-fedorova/)
