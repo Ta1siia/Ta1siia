@@ -57,6 +57,7 @@ A pet adoption website built by a 10-person team that I led: I split the work, m
 ## 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD500?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 ![English](https://img.shields.io/badge/English-C1_(Cambridge_FCE,_Grade_A)-0057B7?style=flat-square)
 ![French](https://img.shields.io/badge/French-C2_(DALF)-002395?style=flat-square)
 
